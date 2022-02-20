@@ -1,0 +1,63 @@
+body {
+    font-family: 'Rajdhani', sans-serif;
+    background: #f5fffe;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom:25px;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size:40px;
+}
+
+.password-title {
+    text-align: center;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.password-container {
+    width: 75%;
+    height: 150px;
+    border: solid 1px #ccc;
+    margin: 0 auto;
+    background: #fff;
+}
+
+.password-text {
+    text-align: center;
+    font-size: 13px;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.password-button {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.button-style {
+    background-color:#00b8a5;
+    border: none;
+    color: #fff;
+    padding: 8px 12px;
+    border-radius: 4px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+.button-style:hover {
+    background-color:#29cfbe;
+}
+
+#password {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
